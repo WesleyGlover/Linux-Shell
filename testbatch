@@ -1,0 +1,11 @@
+ls; echo hello world
+cd ..; ls
+cd ./major-assignment-2; ls
+echo it works!
+cat out.txt | sort -r | uniq
+cat out.txt | sort -r
+who | grep yhp0005 > out1.txt
+myhistory
+myhistory -e 4
+myhistory -c
+myhistory
